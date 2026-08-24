@@ -82,3 +82,11 @@ feature/qr-api
 ```
 
 작업 완료 후 Pull Request를 통해 `main`에 병합합니다.
+
+❌ main에서 직접 개발
+❌ main에 바로 push
+❌ 다른 사람 브랜치에서 작업
+❌ .env 업로드
+❌ node_modules 업로드
+❌ DB 비밀번호 commit
+❌ git push --force
